@@ -1,0 +1,3 @@
+ERROR - 2016-05-07T22:16:44.597 : la fk vers users non positive ou égale à 0 [Ljava.lang.StackTraceElement;@479f3a41
+ERROR - 2016-05-07T22:19:20.059 : pas de partenaire agrée [Ljava.lang.StackTraceElement;@7fbdd3cf
+ERROR - 2016-05-07T22:20:44.757 : Pas d'annulations générique [Ljava.lang.StackTraceElement;@270c096c

@@ -1,0 +1,28 @@
+ERROR - 2016-05-08T08:19:50.561 : pas de partenaire agrée [Ljava.lang.StackTraceElement;@6d167283
+ERROR - 2016-05-08T08:20:12.300 : Partenaire introuvable [Ljava.lang.StackTraceElement;@7072ca54
+ERROR - 2016-05-08T08:20:24.331 : Partenaire introuvable [Ljava.lang.StackTraceElement;@66be9c38
+ERROR - 2016-05-08T08:22:35.280 : Partenaire introuvable [Ljava.lang.StackTraceElement;@66a62674
+ERROR - 2016-05-08T08:22:48.547 : Pas d'annulations générique [Ljava.lang.StackTraceElement;@2f04e157
+ERROR - 2016-05-08T08:23:13.240 : pas de partenaire agrée [Ljava.lang.StackTraceElement;@454c570a
+ERROR - 2016-05-08T08:24:22.754 : Pas d'annulations générique [Ljava.lang.StackTraceElement;@5c4f3229
+ERROR - 2016-05-08T08:26:33.052 : Pas d'annulations générique [Ljava.lang.StackTraceElement;@4eee421
+ERROR - 2016-05-08T08:28:02.775 : code bic invalide  [Ljava.lang.StackTraceElement;@2d86103b
+ERROR - 2016-05-08T08:28:12.483 : numero de compte invalide  [Ljava.lang.StackTraceElement;@8c9cae4
+ERROR - 2016-05-08T08:29:22.194 : PROBLEME DE COOKIE [Ljava.lang.StackTraceElement;@547d2cc0
+ERROR - 2016-05-08T08:32:20.427 : pas de partenaire agrée [Ljava.lang.StackTraceElement;@4adbc59d
+ERROR - 2016-05-08T08:33:09.434 : Pas d'annulations générique [Ljava.lang.StackTraceElement;@8611d38
+ERROR - 2016-05-08T08:34:00.802 : Pas d'annulations générique [Ljava.lang.StackTraceElement;@485bf291
+ERROR - 2016-05-08T08:34:39.182 : Pas d'annulations générique [Ljava.lang.StackTraceElement;@a50e053
+ERROR - 2016-05-08T08:38:22.344 : Pas d'annulations générique [Ljava.lang.StackTraceElement;@188e90a9
+ERROR - 2016-05-08T08:39:05.862 : Pas d'annulations générique [Ljava.lang.StackTraceElement;@50d9bff5
+ERROR - 2016-05-08T08:39:35.204 : Pas d'annulations générique [Ljava.lang.StackTraceElement;@1c253aae
+ERROR - 2016-05-08T08:39:50.932 : l'utilisateur n'a pas de code bic ou de compte bancaire associé [Ljava.lang.StackTraceElement;@500dc1c4
+ERROR - 2016-05-08T08:40:17.547 : Aucun Encodage à confirmer [Ljava.lang.StackTraceElement;@2c8859fc
+ERROR - 2016-05-08T08:40:52.695 : Pas d'annulations générique [Ljava.lang.StackTraceElement;@52c47e20
+ERROR - 2016-05-08T08:43:12.419 : Partenaire avec au moins une mobilité  [Ljava.lang.StackTraceElement;@255d7237
+ERROR - 2016-05-08T08:43:19.999 : Partenaire avec au moins une mobilité  [Ljava.lang.StackTraceElement;@753b850c
+ERROR - 2016-05-08T08:43:22.255 : Partenaire avec au moins une mobilité  [Ljava.lang.StackTraceElement;@7ec84e66
+ERROR - 2016-05-08T08:46:17.764 : PROBLEME DE COOKIE [Ljava.lang.StackTraceElement;@384d35fa
+ERROR - 2016-05-08T08:46:45.365 : Pseudo déjà utilisé! [Ljava.lang.StackTraceElement;@2001a17e
+ERROR - 2016-05-08T08:46:56.313 : pas de partenaire agrée [Ljava.lang.StackTraceElement;@7e99b822
+ERROR - 2016-05-08T08:48:04.310 : PROBLEME DE COOKIE [Ljava.lang.StackTraceElement;@3431c6a7
